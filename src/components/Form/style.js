@@ -8,6 +8,17 @@ const styles = StyleSheet.create({
         borderTopLeftRadius: 20,
         borderTopRightRadius: 20,
     },
+
+    alerta: {
+        backgroundColor: '#F00',
+        fontSize: 20,
+        textAlign: 'center',
+        color: '#FFF',
+        marginBottom: 20,
+        padding: 10,
+        borderRadius: 5,
+    },
+    
     label: {
         fontSize: 18,
         textAlign: 'center',
